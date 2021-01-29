@@ -13,5 +13,7 @@ public class Divide {
         }
 
         System.out.println(count+"remainder"+num1);
+
+        // did i get this right?
     }
 }
